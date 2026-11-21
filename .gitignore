@@ -1,0 +1,17 @@
+# Build outputs
+__pycache__/
+*.pyc
+.gradle/
+**/build/
+.idea/
+*.iml
+local.properties
+# Sensitive user-owned game data and device backups
+*.obb
+*.apk
+*.aab
+FFD_Backup_*/
+# Do not commit signing keys
+*.keystore
+*.jks
+*.p12
